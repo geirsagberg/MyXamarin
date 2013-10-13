@@ -1,0 +1,5 @@
+\\vmware-host\Shared Folders\SharedProjects\MyXamarin\MyXamarinIos\bin\iPhoneSimulator\Debug\MyXamarinIos.exe
+\\vmware-host\Shared Folders\SharedProjects\MyXamarin\MyXamarinIos\bin\iPhoneSimulator\Debug\MyXamarinIos.pdb
+\\vmware-host\Shared Folders\SharedProjects\MyXamarin\MyXamarinIos\obj\iPhoneSimulator\Debug\MyXamarinIos.csprojResolveAssemblyReference.cache
+\\vmware-host\Shared Folders\SharedProjects\MyXamarin\MyXamarinIos\obj\iPhoneSimulator\Debug\MyXamarinIos.exe
+\\vmware-host\Shared Folders\SharedProjects\MyXamarin\MyXamarinIos\obj\iPhoneSimulator\Debug\MyXamarinIos.pdb

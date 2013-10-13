@@ -1,0 +1,1 @@
+MyXamarinAndroid.Activity1;myxamarinandroid.Activity1

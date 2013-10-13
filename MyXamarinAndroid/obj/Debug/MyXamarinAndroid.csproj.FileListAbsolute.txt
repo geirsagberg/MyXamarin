@@ -1,0 +1,26 @@
+C:\Projects\MyXamarin\MyXamarinAndroid\bin\Debug\MyXamarinAndroid.dll
+C:\Projects\MyXamarin\MyXamarinAndroid\bin\Debug\MyXamarinAndroid.pdb
+C:\Projects\MyXamarin\MyXamarinAndroid\bin\Debug\MyXamarinAndroid.dll.mdb
+C:\Projects\MyXamarin\MyXamarinAndroid\bin\Debug\MyXamarinAndroid.MyXamarinAndroid.apk
+C:\Projects\MyXamarin\MyXamarinAndroid\bin\Debug\MyXamarinAndroid.MyXamarinAndroid-Signed.apk
+C:\Projects\MyXamarin\MyXamarinAndroid\obj\Debug\MyXamarinAndroid.dll
+C:\Projects\MyXamarin\MyXamarinAndroid\obj\Debug\MyXamarinAndroid.pdb
+C:\Projects\MyXamarin\MyXamarinAndroid\obj\Debug\android\bin\MyXamarinAndroid.MyXamarinAndroid.apk
+C:\Projects\MyXamarin\MyXamarinAndroid\obj\Debug\res\layout\main.xml
+C:\Projects\MyXamarin\MyXamarinAndroid\obj\Debug\res\values\strings.xml
+C:\Projects\MyXamarin\MyXamarinAndroid\obj\Debug\res\drawable\icon.png
+C:\Projects\MyXamarin\MyXamarinAndroid\obj\Debug\R.cs.flag
+C:\Projects\MyXamarin\MyXamarinAndroid\obj\Debug\uploadflags.txt
+\\vmware-host\Shared Folders\SharedProjects\MyXamarin\MyXamarinAndroid\bin\Debug\MyXamarinAndroid.dll
+\\vmware-host\Shared Folders\SharedProjects\MyXamarin\MyXamarinAndroid\bin\Debug\MyXamarinAndroid.pdb
+\\vmware-host\Shared Folders\SharedProjects\MyXamarin\MyXamarinAndroid\bin\Debug\MyXamarinAndroid.dll.mdb
+\\vmware-host\Shared Folders\SharedProjects\MyXamarin\MyXamarinAndroid\bin\Debug\MyXamarinAndroid.MyXamarinAndroid.apk
+\\vmware-host\Shared Folders\SharedProjects\MyXamarin\MyXamarinAndroid\bin\Debug\MyXamarinAndroid.MyXamarinAndroid-Signed.apk
+\\vmware-host\Shared Folders\SharedProjects\MyXamarin\MyXamarinAndroid\obj\Debug\MyXamarinAndroid.dll
+\\vmware-host\Shared Folders\SharedProjects\MyXamarin\MyXamarinAndroid\obj\Debug\MyXamarinAndroid.pdb
+\\vmware-host\Shared Folders\SharedProjects\MyXamarin\MyXamarinAndroid\obj\Debug\android\bin\MyXamarinAndroid.MyXamarinAndroid.apk
+\\vmware-host\Shared Folders\SharedProjects\MyXamarin\MyXamarinAndroid\obj\Debug\res\layout\main.xml
+\\vmware-host\Shared Folders\SharedProjects\MyXamarin\MyXamarinAndroid\obj\Debug\res\values\strings.xml
+\\vmware-host\Shared Folders\SharedProjects\MyXamarin\MyXamarinAndroid\obj\Debug\res\drawable\icon.png
+\\vmware-host\Shared Folders\SharedProjects\MyXamarin\MyXamarinAndroid\obj\Debug\R.cs.flag
+\\vmware-host\Shared Folders\SharedProjects\MyXamarin\MyXamarinAndroid\obj\Debug\uploadflags.txt
